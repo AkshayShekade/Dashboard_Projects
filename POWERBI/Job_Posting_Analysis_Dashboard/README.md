@@ -6,7 +6,7 @@ This Power-BI Dashboard project provides a comprehensive analysis of job posting
 The analysis is divided into several sections, each offering a detailed view of different aspects of the data.
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job_Posting_Analysis/01-Analysis-Overview.png">
+  <img src="https://github.com/AkshayShekade/Dashboard_Projects/blob/main/POWERBI/Job_Posting_Analysis_Dashboard/01-Analysis-Overview.png">
 </p>
 
 ## About the Dataset
@@ -32,7 +32,7 @@ Power BI was used to clean and transform the data. This process involved organiz
 ### Page 1: Job-Based Analysis
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job_Posting_Analysis/02-Job-Based%20Analysis.png">
+  <img src="https://github.com/AkshayShekade/Dashboard_Projects/blob/main/POWERBI/Job_Posting_Analysis_Dashboard/02-Job-Based%20Analysis.png">
 </p>
 
 - **Top Job Titles**: Data Engineer leads with 3,462 postings, followed by Business Analyst, Data Scientist, and Data Analyst.
@@ -44,7 +44,7 @@ Power BI was used to clean and transform the data. This process involved organiz
 ### Page 2: Skills-Based Analysis
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job_Posting_Analysis/03-Skills-Based%20Analysis.png">
+  <img src="https://github.com/AkshayShekade/Dashboard_Projects/blob/main/POWERBI/Job_Posting_Analysis_Dashboard/03-Skills-Based%20Analysis.png">
 </p>
 
 - **Total Number of Job Skills**: 117 distinct skills, emphasizing the diverse expertise required in the field.
@@ -55,7 +55,7 @@ Power BI was used to clean and transform the data. This process involved organiz
 ### Page 3: Sectoral Analysis
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job_Posting_Analysis/04-Industry-Based%20Analysis.png">
+  <img src="https://github.com/AkshayShekade/Dashboard_Projects/blob/main/POWERBI/Job_Posting_Analysis_Dashboard/04-Industry-Based%20Analysis.png">
 </p>
 
 - **Industry Insights**: Detailed analysis of job postings by industry, highlighting the demand across various sectors.
@@ -64,11 +64,7 @@ Power BI was used to clean and transform the data. This process involved organiz
 
 <br>
 ### Thank you...
-<p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job_Posting_Analysis/Analysis-END.png">
-</p>
 
-<br>
 
 ### Conclusion
 
@@ -91,16 +87,14 @@ Contributions are welcome! If you have any improvements, suggestions, or additio
 
 ## 🌱About Me 
 
-I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
+I'm Akshay Shekade, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
 
 ♻️ You can find more about me and my work through the following links:
 
-- **Linkedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
-- **Website**: [duygujones.com](https://duygujones.vercel.app/)
-- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
-- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
-- **Tableau Public**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
+- **Linkedin**: [Linkedin](https://www.linkedin.com/in/akshay-shekade-a225a8135/?trk=opento_sprofile_topcard)
+- **Website**: [Portfolio](https://akshayshekade.github.io/)
+- **GitHub**: [Github](https://github.com/AkshayShekade)
+- **Tableau Public**: [Tableau Public](https://public.tableau.com/app/profile/akshay.shekade/vizzes)
 
 🌐Feel free to connect with me!
 
@@ -113,9 +107,3 @@ I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis
 Code with joy! 👩‍💻✨
 
 ---
-
-
-
-##### 📜 License
-
-##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
