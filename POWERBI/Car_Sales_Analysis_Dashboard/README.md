@@ -46,13 +46,11 @@ It provides insights into the performance of different car brands and their top 
 - **Yearly Sales Trend**: Analysis of sales trends from 2006 to 2016, highlighting key performance changes over the years.
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_03_Car_Sales_Analysis/01-Car-Sales-Dashboard.png">
+  <img src="https://github.com/AkshayShekade/Dashboard_Projects/blob/main/POWERBI/Car_Sales_Analysis_Dashboard/01-Car-Sales-Dashboard.png">
 </p>
 
 ### Thank you...
-<p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_03_Car_Sales_Analysis/Analysis%20END.png">
-</p>
+
 
 ### Conclusion
 
@@ -69,16 +67,14 @@ Contributions are welcome! If you have any improvements, suggestions, or additio
 
 ## 🌱About Me 
 
-I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
+I'm Akshay Shekade, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
 
 ♻️ You can find more about me and my work through the following links:
 
-- **Linkedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
-- **Website**: [duygujones.com](https://duygujones.vercel.app/)
-- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
-- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
-- **Tableau Public**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
+- **Linkedin**: [Linkedin](https://www.linkedin.com/in/akshay-shekade-a225a8135/?trk=opento_sprofile_topcard)
+- **Website**: [Portfolio](https://akshayshekade.github.io/)
+- **GitHub**: [Github](https://github.com/AkshayShekade)
+- **Tableau Public**: [Tableau Public](https://public.tableau.com/app/profile/akshay.shekade/vizzes)
 
 🌐Feel free to connect with me!
 
@@ -91,9 +87,3 @@ I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis
 Code with joy! 👩‍💻✨
 
 ---
-
-
-
-##### 📜 License
-
-##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
