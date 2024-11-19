@@ -6,7 +6,7 @@ This Power-BI Dashboard project presents a comprehensive analysis of the sales d
 The analysis is divided into several sections, each providing a detailed view of various aspects of the data.
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global_Superstore_Sales_Analysis/01-overview%20of%20Analysis.png">
+  <img src="https://github.com/AkshayShekade/Dashboard_Projects/blob/main/POWERBI/Global_Superstore_Sales_Analysis/01-overview%20of%20Analysis.png">
 </p>
 
 ## About the Dataset
@@ -34,7 +34,7 @@ Used Power BI to clean and transform the data. This process involved organizing 
 - Top Products: The top 10 sub-categories by profit include Copiers, Phones, and Chairs.
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global_Superstore_Sales_Analysis/02-Product-Based-Analysis.png">
+  <img src="https://github.com/AkshayShekade/Dashboard_Projects/blob/main/POWERBI/Global_Superstore_Sales_Analysis/02-Product-Based-Analysis.png">
 </p>
 
 <br>
@@ -42,7 +42,7 @@ Used Power BI to clean and transform the data. This process involved organizing 
 ### Page 2: Customer Insights: Total sales reached $12.64M, with the Consumer segment leading in sales (51.48%).
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global_Superstore_Sales_Analysis/03-Customer-Based-Analysis.png">
+  <img src="https://github.com/AkshayShekade/Dashboard_Projects/blob/main/POWERBI/Global_Superstore_Sales_Analysis/03-Customer-Based-Analysis.png">
 </p>
 
 <br>
@@ -50,17 +50,13 @@ Used Power BI to clean and transform the data. This process involved organizing 
 ### Page 3: Geographical Distribution: Sales were highest in Western Europe, followed by Central America and Oceania.
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global_Superstore_Sales_Analysis/04-Region-Based-Analysis.png">
+  <img src="https://github.com/AkshayShekade/Dashboard_Projects/blob/main/POWERBI/Global_Superstore_Sales_Analysis/04-Region-Based-Analysis.png">
 </p>
 
 <br>
 
 ### Thank you.
-<p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global_Superstore_Sales_Analysis/Analysis-End.png">
-</p>
 
-<br>
 
 ### Recommendations
 
@@ -82,16 +78,15 @@ Contributions are welcome! If you have any improvements, suggestions, or additio
 
 ## 🌱About Me 
 
-I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
+I'm Akshay Shekade, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
 
 ♻️ You can find more about me and my work through the following links:
 
-- **Linkedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
-- **Website**: [duygujones.com](https://duygujones.vercel.app/)
-- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
-- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
-- **Tableau Public**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
+- **Linkedin**: [Linkedin](https://www.linkedin.com/in/akshay-shekade-a225a8135/?trk=opento_sprofile_topcard)
+- **Website**: [Portfolio](https://akshayshekade.github.io/)
+- **GitHub**: [Github](https://github.com/AkshayShekade)
+- **Tableau Public**: [Tableau Public](https://public.tableau.com/app/profile/akshay.shekade/vizzes)
+
 
 🌐Feel free to connect with me!
 
@@ -104,9 +99,3 @@ I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis
 Code with joy! 👩‍💻✨
 
 ---
-
-
-
-##### 📜 License
-
-##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
