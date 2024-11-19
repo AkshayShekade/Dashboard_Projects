@@ -32,16 +32,14 @@ Contributions are welcome! If you have any improvements, suggestions, or additio
 
 ## 🌱About Me 
 
-I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
+I'm Akshay Shekade, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
 
 ♻️ You can find more about me and my work through the following links:
 
-- **Linkedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
-- **Website**: [duygujones.com](https://duygujones.vercel.app/)
-- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
-- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
-- **Tableau Public**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
+- **Linkedin**: [Linkedin](https://www.linkedin.com/in/akshay-shekade-a225a8135/?trk=opento_sprofile_topcard)
+- **Website**: [Portfolio](https://akshayshekade.github.io/)
+- **GitHub**: [Github](https://github.com/AkshayShekade)
+- **Tableau Public**: [Tableau Public](https://public.tableau.com/app/profile/akshay.shekade/vizzes)
 
 🌐Feel free to connect with me!
 
@@ -54,9 +52,3 @@ I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis
 Code with joy! 👩‍💻✨
 
 ---
-
-
-
-##### 📜 License
-
-##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
