@@ -16,12 +16,6 @@
 - This dataset helps identify the impact of various factors such as geographic location, population density, healthcare capacity, and social interventions on the spread and severity of the virus. 
 - How can public health officials use this data to predict future trends, allocate resources efficiently, and develop targeted strategies to manage and mitigate the pandemic?
 
-### Tableau Public Dashboard
-
-*You can view and interact with the dashboard on my Tableau Public profile.*
-Click [here](https://public.tableau.com/app/profile/duygu.jones/viz/CoronavirusCOVID-19ConfirmedCasesbyLocation_17197018749780/Dashboard1) to explore the dashboard.
-
-![](https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/TABLEAU/Covid-19-Cases-Tableau-Dashboard/Covid-19%20Cases%20Tableau%20Dashboard.png)
 
 
 ### Methodology:
@@ -68,16 +62,14 @@ This dataset is compiled for analytical and educational purposes.
 
 ## About Me
 
-I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis, and machine learning. <br>
+I'm Akshay Shekade, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
 
-You can find more about me and my work through the following links:
+♻️ You can find more about me and my work through the following links:
 
-- **Website**: [duygujones.vercel.app](https://duygujones.vercel.app/)
-- **LinkedIn**: [linkedin.com/in/duygujones](https://www.linkedin.com/in/duygujones/)
-- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
-- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
-- **Tableau Public**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
+- **Linkedin**: [Linkedin](https://www.linkedin.com/in/akshay-shekade-a225a8135/?trk=opento_sprofile_topcard)
+- **Website**: [Portfolio](https://akshayshekade.github.io/)
+- **GitHub**: [Github](https://github.com/AkshayShekade)
+- **Tableau Public**: [Tableau Public](https://public.tableau.com/app/profile/akshay.shekade/vizzes)
 
 Feel free to connect with me!<br>
 
@@ -89,7 +81,3 @@ Feel free to connect with me!<br>
 Happy Trails!👩‍💻✨
 
 ---
-
-##### License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
